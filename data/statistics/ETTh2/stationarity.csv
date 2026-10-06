@@ -1,0 +1,2 @@
+series,adf_statistic,adf_pvalue,kpss_statistic,kpss_pvalue,adf_stationary_5pct,kpss_stationary_5pct
+OT,-3.412920637608317,0.010526215240884158,2.5218763270561815,0.01,True,False
